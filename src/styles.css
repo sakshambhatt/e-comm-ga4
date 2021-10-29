@@ -1,0 +1,21 @@
+@import url("https://eklavya-dev.netlify.app/css/eklavya.css");
+.card {
+  margin-top: 1em;
+}
+.badge-icon {
+  bottom: 1em;
+  left: 2em;
+}
+
+.login-form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 1em;
+  padding: 1em;
+}
+.sieve-container {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
